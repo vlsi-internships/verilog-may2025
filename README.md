@@ -8,4 +8,6 @@ This repository is to share the contents of Digital Design using Verilog HDL.
 [Syllbus-RTL design and simulation using Verilog HDL](https://drive.google.com/file/d/1B9y1YFQ99xQ_NkQj-WeB3oGrTDXL-5IR/view?usp=sharing)
 
 ## List of Lab experiments
-[Lab experiments list](https://github.com/vlsi-internships/verilog-may2025/blob/main/contents.md)
+1. [Lab experiments list](https://github.com/vlsi-internships/verilog-may2025/blob/main/contents.md)
+2. [Lab1 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/1%20Structural%20and%20dataflow%20Verilog%20HDL%20models)
+
