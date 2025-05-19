@@ -13,4 +13,5 @@ This repository is to share the contents of Digital Design using Verilog HDL.
 2. [Lab1 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/1%20Structural%20and%20dataflow%20Verilog%20HDL%20models)
 
 3. [Lab2 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/2%20Verilog%20HDL%20program%20in%20behavioral%20model)
+4. [Lab3 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/3%20Verilog%20HDL%20program%20in%20Hierarchical%20structural%20model)
 
