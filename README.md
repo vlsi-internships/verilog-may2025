@@ -18,3 +18,5 @@ This repository is to share the contents of Digital Design using Verilog HDL.
 
 5. [Lab4 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/4%20Verilog%20HDL%20program%20in%20behavioral%20model%20for%20flip%20flops%2C%20shift%20registers%20and%20counters)
 
+6. [Lab5 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/5%20Verilog%20HDL%20program%20in%20structural%20and%20behavioral%20model)
+
