@@ -24,9 +24,7 @@ c) 8-bit comparator using 4-bit comparators and additional logic
 5. Write a Verilog HDL program in structural and behavioral models for
 a) 8 bit asynchronous up-down counter b) 8 bit synchronous up-down counter
 
-6. Write a Verilog HDL program for 4 bit sequence detector through Moore state machines
-
-7. Write a Verilog HDL program for 4 bit sequence detector through Mealy state machines
+6. Sequence or Pattern detector through finite state machines: Moore and Mealy
 
 ```
 <p align="justify">To learn Verilog HDL fundamentals you are suggested to watch my youtube lecture series<p/><br/>
