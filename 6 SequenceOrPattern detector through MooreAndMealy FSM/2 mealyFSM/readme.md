@@ -1,0 +1,1 @@
+#### Sequence/Pattern Detector using mealyFSM Verilog HDL

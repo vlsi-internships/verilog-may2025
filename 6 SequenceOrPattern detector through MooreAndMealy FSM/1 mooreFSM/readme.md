@@ -1,0 +1,1 @@
+#### Sequence/Pattern Detector using MooreFSM Verilog HDL
