@@ -1,7 +1,7 @@
 # RTL design and simulation using Verilog HDL - may2025
 This repository is to share the contents of Digital Design using Verilog HDL.
 
-### - <ins>EDA Tools Information</ins>
+### <ins>- EDA Tools Information</ins>
 [Click me to know about EDA tool used in the training](https://github.com/vlsi-internships/verilog-may2025/blob/main/eda-tools-info.md)
 
 ### - <ins> Training syllabus </ins>
