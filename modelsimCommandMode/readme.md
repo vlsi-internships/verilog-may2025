@@ -9,6 +9,6 @@
 * [Check this file](https://github.com/vlsi-internships/verilog-may2025/blob/main/modelsimCommandMode/run_sim.do)
 
 * In the windows cmd type the following
-*   vsim -c -do run_sim.do
+    * vsim -c -do run_sim.do
 *   If you want to a file then
-*       vsim -c -do run_sim.do > output.log
+  *   vim -c -do run_sim.do > output.log
