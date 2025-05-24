@@ -11,16 +11,15 @@ This repository is to share the contents of Digital Design using Verilog HDL.
 
 * [Click me for instructions on command mode](https://github.com/vlsi-internships/verilog-may2025/tree/main/modelsimCommandMode)
 
-### <ins> List of Lab experiments </ins>
-1. [Lab experiments list](https://github.com/vlsi-internships/verilog-may2025/blob/main/contents.md)
+### <ins> List of Lab experiments </ins> [Lab experiments list](https://github.com/vlsi-internships/verilog-may2025/blob/main/contents.md)
 
-2. [Lab1 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/1%20Structural%20and%20dataflow%20Verilog%20HDL%20models)
+1. [Lab1 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/1%20Structural%20and%20dataflow%20Verilog%20HDL%20models)
 
-3. [Lab2 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/2%20Verilog%20HDL%20program%20in%20behavioral%20model)
+2. [Lab2 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/2%20Verilog%20HDL%20program%20in%20behavioral%20model)
 
-4. [Lab3 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/3%20Verilog%20HDL%20program%20in%20Hierarchical%20structural%20model)
+3. [Lab3 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/3%20Verilog%20HDL%20program%20in%20Hierarchical%20structural%20model)
 
-5. [Lab4 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/4%20Verilog%20HDL%20program%20in%20behavioral%20model%20for%20flip%20flops%2C%20shift%20registers%20and%20counters)
+4. [Lab4 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/4%20Verilog%20HDL%20program%20in%20behavioral%20model%20for%20flip%20flops%2C%20shift%20registers%20and%20counters)
 
-6. [Lab5 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/5%20Verilog%20HDL%20program%20in%20structural%20and%20behavioral%20model)
+5. [Lab5 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/5%20Verilog%20HDL%20program%20in%20structural%20and%20behavioral%20model)
 
