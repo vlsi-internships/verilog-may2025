@@ -12,7 +12,6 @@ vsim -c topModuleName[in this example it is ha]
 
 step4:
 # vsim -c ha
-# Start time: 07:33:05 on May 24,2025
 # Loading work.ha
 VSIM 1> force b 1 1ns, 1 2ns -deposit
 VSIM 2> force a 0 1ns, 1 2ns -deposit
