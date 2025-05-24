@@ -11,4 +11,4 @@
 * In the windows cmd type the following
     * vsim -c -do run_sim.do
 *   If you want to a file then
-   *   vsim -c -do run_sim.do > output.log
+   *  vsim -c -do run_sim.do > output.log
