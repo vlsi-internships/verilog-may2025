@@ -11,7 +11,7 @@ This repository is to share the contents of Digital Design using Verilog HDL.
 
 * [Click me for instructions on command mode](https://github.com/vlsi-internships/verilog-may2025/tree/main/modelsimCommandMode)
 
-### <ins> List of Lab experiments </ins> [Lab experiments list](https://github.com/vlsi-internships/verilog-may2025/blob/main/contents.md)
+### <ins> List of Lab experiments: </ins> [Here is list of experiments](https://github.com/vlsi-internships/verilog-may2025/blob/main/contents.md)
 
 1. [Lab1 experiments](https://github.com/vlsi-internships/verilog-may2025/tree/main/1%20Structural%20and%20dataflow%20Verilog%20HDL%20models)
 
