@@ -7,7 +7,7 @@ This repository is to share the contents of Digital Design using Verilog HDL.
 ### <ins> Training syllabus </ins>
 [Syllbus-RTL design and simulation using Verilog HDL](https://drive.google.com/file/d/1B9y1YFQ99xQ_NkQj-WeB3oGrTDXL-5IR/view?usp=sharing)
 
-### - <ins> Instructions to use ModelSim in windows cmd </ins>
+### <ins> Instructions to use ModelSim in windows cmd </ins>
 
 * [Click me for instructions on command mode](https://github.com/vlsi-internships/verilog-may2025/tree/main/modelsimCommandMode)
 
