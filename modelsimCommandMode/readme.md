@@ -1,6 +1,6 @@
 ### Method-1: Typing the commands in the windows cmd
 
-* [See this file](https://github.com/vlsi-internships/verilog-may2025/blob/main/modelsimCommandMode/ModelSimCommandMode.md)
+* [Check this file](https://github.com/vlsi-internships/verilog-may2025/blob/main/modelsimCommandMode/ModelSimCommandMode.md)
 
 
 
