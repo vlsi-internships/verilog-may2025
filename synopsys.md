@@ -67,4 +67,8 @@ step1: The following command is to compile the SystemVerilog code:
 vcs -sverilog fa.v rca.v tb_rca.v -full64 -kdb -lca -debug_access+all
 
 verdi -cov -covdir simv.vdb
+
+![image](https://github.com/user-attachments/assets/0bf6bb99-e470-4faf-aacb-e836813af12b)
+*Fig.1*
+
 ```
