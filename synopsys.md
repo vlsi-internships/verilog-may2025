@@ -34,18 +34,25 @@ it will open GUI
 
 ![Alt text](vcs/Picture1.png)
 *Fig.1*
+
 ![Alt text](vcs/Picture2.png)
 *Fig.2*
+
 ![Alt text](vcs/Picture3.png)
 *Fig.3*
+
 ![Alt text](vcs/Picture4.png)
 *Fig.4*
+
 ![Alt text](vcs/Picture5.png)
 *Fig.5*
+
 ![Alt text](vcs/Picture6.png)
 *Fig.6*
+
 ![Alt text](vcs/Picture7.png)
 *Fig.7*
+
 ![Alt text](vcs/Picture8.png)
 *Fig.8*
 
