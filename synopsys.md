@@ -32,7 +32,7 @@ step2: After compilation, the tool will produce a "simv" executable file. In the
 it will open GUI 
 
 
-
+![Alt text](vcs/Picture1.png)
 
 
 
