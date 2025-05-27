@@ -1,5 +1,5 @@
 ### This file contains the synopsys tools usgae info.
-
+```
 VCS (Verilog Compiler Simulator) – A high-performance simulator from Synopsys for functional verification of digital designs using Verilog/SystemVerilog.
 
 
@@ -30,7 +30,7 @@ step2: After compilation, the tool will produce a "simv" executable file. In the
 ./simv -verdi
 
 it will open GUI 
-
+```
 
 ![Alt text](vcs/Picture1.png)
 *Fig.1*
@@ -56,12 +56,15 @@ it will open GUI
 ![Alt text](vcs/Picture8.png)
 *Fig.8*
 
+### coverage 
+```
+step1: The following command is to compile the Verilog code:
 
+vcs fa.v rca.v tb_rca.v -full64 -kdb -lca -debug_access+all
 
+step1: The following command is to compile the SystemVerilog code:
 
-
-
-
-coverage 
+vcs -sverilog fa.v rca.v tb_rca.v -full64 -kdb -lca -debug_access+all
 
 verdi -cov -covdir simv.vdb
+```
