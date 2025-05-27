@@ -1,12 +1,14 @@
 ### This file contains the synopsys tools usgae info.
 ```
-VCS (Verilog Compiler Simulator) – A high-performance simulator from Synopsys for functional verification of digital designs using Verilog/SystemVerilog.
+VCS (Verilog Compiler Simulator) – A high-performance simulator from Synopsys for functional verification of
+                                    digital designs using Verilog/SystemVerilog.
 
 
 Verdi – A powerful debug and visualization tool for analyzing simulation results and understanding complex SoC behavior.
 
 
-SpyGlass – A static linting and RTL analysis tool that checks coding style, synthesis readiness, and potential bugs early in the design flow.
+SpyGlass – A static linting and RTL analysis tool that checks coding style, synthesis readiness,
+            and potential bugs early in the design flow.
 
 Steps to compile and run the Verilog code
 
