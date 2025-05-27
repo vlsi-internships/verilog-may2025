@@ -33,7 +33,13 @@ it will open GUI
 
 
 ![Alt text](vcs/Picture1.png)
-
+![Alt text](vcs/Picture2.png)
+![Alt text](vcs/Picture3.png)
+![Alt text](vcs/Picture4.png)
+![Alt text](vcs/Picture5.png)
+![Alt text](vcs/Picture6.png)
+![Alt text](vcs/Picture7.png)
+![Alt text](vcs/Picture8.png)
 
 
 
