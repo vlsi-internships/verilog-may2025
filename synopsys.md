@@ -33,27 +33,35 @@ it will open GUI
 ```
 
 ![Alt text](vcs/Picture1.png)
+
 *Fig.1*
 
 ![Alt text](vcs/Picture2.png)
+
 *Fig.2*
 
 ![Alt text](vcs/Picture3.png)
+
 *Fig.3*
 
 ![Alt text](vcs/Picture4.png)
+
 *Fig.4*
 
 ![Alt text](vcs/Picture5.png)
+
 *Fig.5*
 
 ![Alt text](vcs/Picture6.png)
+
 *Fig.6*
 
 ![Alt text](vcs/Picture7.png)
+
 *Fig.7*
 
 ![Alt text](vcs/Picture8.png)
+
 *Fig.8*
 
 ### coverage 
@@ -66,6 +74,9 @@ step1: The following command is to compile the SystemVerilog code:
 
 vcs -sverilog fa.v rca.v tb_rca.v -full64 -kdb -lca -debug_access+all
 
+step2: ./simv
+
+step3:
 verdi -cov -covdir simv.vdb
 ```
 ![image](https://github.com/user-attachments/assets/0bf6bb99-e470-4faf-aacb-e836813af12b)
